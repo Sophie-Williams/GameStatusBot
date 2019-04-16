@@ -1,0 +1,2 @@
+# GameStatusBot
+© 2018 PicAssO#2030 &lt;@300306052610523136>
